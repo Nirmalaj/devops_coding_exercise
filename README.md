@@ -1,18 +1,17 @@
-# devops_coding_exercise
+# Build a Secure Cloud ElasticSearch Instance
 An exercise for devops candidates.
 
+##Goals
 The goals of the exercise are the following
 
 1. to show that the candidate is hands on and can write code that builds a cloud-hosted instance
-
 2. to show that candidates can think about big picture topics like security
-
 3. to give us a vehicle for a deeper discussion in a face to face interview setting 
 
-Build a Secure Cloud ElasticSearch Instance
-
+##Overview
 The purpose of this exercise is to demonstrate that you can write code that launches a virtual machine on Amazon Web Services running a secure ElasticSearch service.
 
+##What to Submit
 The output of this exercise should be the following:
 
 - Code that can bring up an AWS instance, install ElasticSearch in a secure way, and prove that it is functioning.
