@@ -13,14 +13,14 @@ The purpose of this exercise is to demonstrate that you can write code that laun
 
 ##What to Submit
 - A zip file or link to a github repository with code that accomplishes the following: 
-    1. Brings up an AWS instance
-    2. Installs ElasticSearch configured in a way that requires credentials and provides encrypted communication
-    3. Demonstrates that it is functioning
+    - Brings up an AWS instance
+    - Installs ElasticSearch configured in a way that requires credentials and provides encrypted communication
+    - Demonstrates that it is functioning
 - A README file with at least the following information
-    1. Instructions that allow us to run your code
-    2. A description of your solution noting interesting choices you made and why you made them
-    3. A list of resources you consulted to accomplish the exercise
-    4. Feedback on the exercise and some information about how long you spent on it
+    - Instructions that allow us to run your code
+    - A description of your solution noting interesting choices you made and why you made them
+    - A list of resources you consulted to accomplish the exercise
+    - Feedback on the exercise and some information about how long you spent on it
 
 ##Requirements
 The requirements of the exercise are the following:
