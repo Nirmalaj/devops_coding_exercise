@@ -1,0 +1,8 @@
+title: Build a Secure Cloud ElasticSearch Instance
+description: An exercise for devops candidates.
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-slate
+
+gems:
+  - jekyll-mentions
